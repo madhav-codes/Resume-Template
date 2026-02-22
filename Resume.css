@@ -34,7 +34,7 @@ body{
 .nav-bar li a:hover{
     color: lightgrey;
     border-bottom: 1px solid white;
-    
+
 }
 
 .text-center{
@@ -55,18 +55,18 @@ body{
 }
 
 .social-icons li a img{
-    padding: 8px; 
+    padding: 8px;
     width:1rem;
 }
 
 .social-icons li{
     border-radius: 50%;
-    
+
 }
 
 .social-icons li:hover {
     box-shadow: 0px 0px 6px 4px rgba(230, 196, 196, 0.3);
-    
+
 }
 
 
@@ -101,7 +101,7 @@ body{
     width:70%;
     line-height: 28px;
     padding:10px;
-    text-align: justify; 
+    text-align: justify;
     margin:auto;
 }
 
@@ -127,7 +127,7 @@ section:nth-child(2n){
 }
 
 section:nth-child(2n+1){
-    background-color:#ffffffff; 
+    background-color:#ffffffff;
 }
 
 
@@ -135,13 +135,13 @@ section:nth-child(2n+1){
 .section-heading{
     color:blue;
     width:auto;
-    padding: 20px 10px 10px; 
+    padding: 20px 10px 10px;
     font-weight: 400;
 }
 
 .mb75px{
     margin: auto;
-    margin-bottom:25px; 
+    margin-bottom:25px;
 }
 
 .skills-display{
@@ -168,7 +168,7 @@ section:nth-child(2n+1){
     line-height:2rem;
     font-size: 1.1rem;
     font-weight: 400;
-    
+
 }
 
 
@@ -242,7 +242,7 @@ section:nth-child(2n+1){
     justify-content: space-around;
     margin:auto;
 }
-   
+
 
 #portfolio-image-container{
     max-width: 300px;
@@ -260,13 +260,13 @@ section:nth-child(2n+1){
 
 
 #project-description{
-    transition: all 0.5s ease-in-out; 
+    transition: all 0.5s ease-in-out;
     position: absolute;
     font-size: 1.2rem;
     top: 0;
     left: 0;
     height: 100%;
-    color: transparent; 
+    color: transparent;
     text-align: center;
     padding: 70px;
 }
@@ -290,7 +290,7 @@ section:nth-child(2n+1){
     margin: auto;
 }
 
-.timeline-box{ 
+.timeline-box{
     position: relative;
     margin: 5px;
     width: 40%;
@@ -308,9 +308,9 @@ section:nth-child(2n+1){
     content: '';
     width:0.5rem;
     height:0.5rem;
-    border-radius: 50%; 
+    border-radius: 50%;
     background-color:grey;
-    position: absolute;  
+    position: absolute;
     top:45%;
     right:-12.5%;
     z-index: 1;
@@ -320,9 +320,9 @@ section:nth-child(2n+1){
     content: '';
     width:0.5rem;
     height:0.5rem;
-    border-radius: 50%; 
+    border-radius: 50%;
     background-color:grey;
-    position: absolute;  
+    position: absolute;
     top:22%;
     left:-9.75%;
     z-index: 1;
@@ -339,16 +339,16 @@ section:nth-child(2n+1){
     width: 0;
     top:12%;
     left:50%;
-    border: 1px dashed #0096fa6b;   
-    
+    border: 1px dashed #0096fa6b;
+
 }
 
 .timeline-traveller{
     transform: rotate(90deg);
     position:sticky;
-    top: 30%; 
+    top: 30%;
     z-index: 2;
-} 
+}
 
 
 .logo{
@@ -375,7 +375,7 @@ section:nth-child(2n+1){
 
 .name h3{
     color: blue;
-    margin-top: -1.72px; 
+    margin-top: -1.72px;
 }
 
 .name h4{
@@ -410,7 +410,7 @@ section:nth-child(2n+1){
     background:linear-gradient(to right,#2857a4,#403066);
     height:auto;
     color:white;
-    
+
 }
 
 #contact .section-heading {
@@ -494,7 +494,7 @@ input[type="placeholder"]{
     margin:20px auto;
  }
 
- 
+
 
 
 
